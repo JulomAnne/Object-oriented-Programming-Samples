@@ -1,8 +1,0 @@
-C:\Users\ACT-STUDENT\Downloads\Encapsulation\Ybañez_EncapsulationUserInput\bin\Debug\Ybañez_EncapsulationUserInput.exe.config
-C:\Users\ACT-STUDENT\Downloads\Encapsulation\Ybañez_EncapsulationUserInput\bin\Debug\Ybañez_EncapsulationUserInput.exe
-C:\Users\ACT-STUDENT\Downloads\Encapsulation\Ybañez_EncapsulationUserInput\bin\Debug\Ybañez_EncapsulationUserInput.pdb
-C:\Users\ACT-STUDENT\Downloads\Encapsulation\Ybañez_EncapsulationUserInput\obj\Debug\Ybañez_EncapsulationUserInput.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Downloads\Encapsulation\Ybañez_EncapsulationUserInput\obj\Debug\Ybañez_EncapsulationUserInput.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Downloads\Encapsulation\Ybañez_EncapsulationUserInput\obj\Debug\Ybañez_EncapsulationUserInput.exe
-C:\Users\ACT-STUDENT\Downloads\Encapsulation\Ybañez_EncapsulationUserInput\obj\Debug\Ybañez_EncapsulationUserInput.pdb
-C:\Users\ACT-STUDENT\Downloads\Encapsulation\Ybañez_EncapsulationUserInput\obj\Debug\Ybañez_EncapsulationUserInput.exe.config
