@@ -1,7 +1,0 @@
-C:\Users\Lenovo\Downloads\Ybañez_Polymorphism\bin\Debug\Ybañez_Polymorphism.exe.config
-C:\Users\Lenovo\Downloads\Ybañez_Polymorphism\bin\Debug\Ybañez_Polymorphism.exe
-C:\Users\Lenovo\Downloads\Ybañez_Polymorphism\bin\Debug\Ybañez_Polymorphism.pdb
-C:\Users\Lenovo\Downloads\Ybañez_Polymorphism\obj\Debug\Ybañez_Polymorphism.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Downloads\Ybañez_Polymorphism\obj\Debug\Ybañez_Polymorphism.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Downloads\Ybañez_Polymorphism\obj\Debug\Ybañez_Polymorphism.exe
-C:\Users\Lenovo\Downloads\Ybañez_Polymorphism\obj\Debug\Ybañez_Polymorphism.pdb
