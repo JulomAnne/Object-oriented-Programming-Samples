@@ -1,8 +1,0 @@
-C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceWithConstructor\bin\Debug\Ybañez_InheritanceWithConstructor.exe.config
-C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceWithConstructor\bin\Debug\Ybañez_InheritanceWithConstructor.exe
-C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceWithConstructor\bin\Debug\Ybañez_InheritanceWithConstructor.pdb
-C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceWithConstructor\obj\Debug\Ybañez_InheritanceWithConstructor.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceWithConstructor\obj\Debug\Ybañez_InheritanceWithConstructor.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceWithConstructor\obj\Debug\Ybañez_InheritanceWithConstructor.exe
-C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceWithConstructor\obj\Debug\Ybañez_InheritanceWithConstructor.pdb
-C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceWithConstructor\obj\Debug\Ybañez_InheritanceWithConstructor.exe.config
