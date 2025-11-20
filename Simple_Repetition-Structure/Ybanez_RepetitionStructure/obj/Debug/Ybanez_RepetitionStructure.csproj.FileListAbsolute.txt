@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\ドキュメント\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\bin\Debug\Ybanez_RepetitionStructure.exe.config
+C:\Users\Lenovo\OneDrive\ドキュメント\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\bin\Debug\Ybanez_RepetitionStructure.exe
+C:\Users\Lenovo\OneDrive\ドキュメント\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\bin\Debug\Ybanez_RepetitionStructure.pdb
+C:\Users\Lenovo\OneDrive\ドキュメント\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\obj\Debug\Ybanez_RepetitionStructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\ドキュメント\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\obj\Debug\Ybanez_RepetitionStructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\ドキュメント\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\obj\Debug\Ybanez_RepetitionStructure.exe
+C:\Users\Lenovo\OneDrive\ドキュメント\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\obj\Debug\Ybanez_RepetitionStructure.pdb
+C:\Users\ACT-STUDENT\Downloads\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\bin\Debug\Ybanez_RepetitionStructure.exe.config
+C:\Users\ACT-STUDENT\Downloads\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\bin\Debug\Ybanez_RepetitionStructure.exe
+C:\Users\ACT-STUDENT\Downloads\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\bin\Debug\Ybanez_RepetitionStructure.pdb
+C:\Users\ACT-STUDENT\Downloads\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\obj\Debug\Ybanez_RepetitionStructure.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\obj\Debug\Ybanez_RepetitionStructure.exe.config
+C:\Users\ACT-STUDENT\Downloads\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\obj\Debug\Ybanez_RepetitionStructure.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\obj\Debug\Ybanez_RepetitionStructure.exe
+C:\Users\ACT-STUDENT\Downloads\Ybanez_RepetitionStructure\Ybanez_RepetitionStructure\obj\Debug\Ybanez_RepetitionStructure.pdb
