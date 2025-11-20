@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ybañez_Abstraction
+namespace Abstraction
 {
     //Name: Kris Anne J. Ybanez
     //Section: IT306P

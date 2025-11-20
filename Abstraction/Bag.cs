@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ybañez_Abstraction
+namespace Abstraction
 {
     abstract class Bag //Abstract Class
     {
