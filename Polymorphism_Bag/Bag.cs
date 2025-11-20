@@ -30,8 +30,7 @@ namespace Ybañez_Polymorphism
     {
         public int Compartments { get; set; } //SchoolBag Class Property
 
-        public SchoolBag(string brand, double price, int compartments)
-            : base(brand, price)
+        public SchoolBag(string brand, double price, int compartments) : base(brand, price)
         {
             Compartments = compartments;
         }
@@ -50,8 +49,7 @@ namespace Ybañez_Polymorphism
     {
         public int Capacity { get; set; } //TravelBag Class Property
 
-        public TravelBag(string brand, double price, int capacity)
-            : base(brand, price)
+        public TravelBag(string brand, double price, int capacity) : base(brand, price)
         {
             Capacity = capacity;
         }
@@ -65,4 +63,5 @@ namespace Ybañez_Polymorphism
             Console.WriteLine();
         }
     }
+
 }
