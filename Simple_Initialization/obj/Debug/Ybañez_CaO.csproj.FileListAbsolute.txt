@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Documents\Ybañez_CaO\bin\Debug\Ybañez_CaO.exe.config
+C:\Users\ACT-STUDENT\Documents\Ybañez_CaO\bin\Debug\Ybañez_CaO.exe
+C:\Users\ACT-STUDENT\Documents\Ybañez_CaO\bin\Debug\Ybañez_CaO.pdb
+C:\Users\ACT-STUDENT\Documents\Ybañez_CaO\obj\Debug\Ybañez_CaO.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\Ybañez_CaO\obj\Debug\Ybañez_CaO.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\Ybañez_CaO\obj\Debug\Ybañez_CaO.exe
+C:\Users\ACT-STUDENT\Documents\Ybañez_CaO\obj\Debug\Ybañez_CaO.pdb
+C:\Users\ACT-STUDENT\Documents\Ybañez_CaO\obj\Debug\Ybañez_CaO.exe.config
