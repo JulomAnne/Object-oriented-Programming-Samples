@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Downloads\Ybañez_Task1\bin\Debug\Ybañez_Task1.exe.config
+C:\Users\ACT-STUDENT\Downloads\Ybañez_Task1\bin\Debug\Ybañez_Task1.exe
+C:\Users\ACT-STUDENT\Downloads\Ybañez_Task1\bin\Debug\Ybañez_Task1.pdb
+C:\Users\ACT-STUDENT\Downloads\Ybañez_Task1\obj\Debug\Ybañez_Task1.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Ybañez_Task1\obj\Debug\Ybañez_Task1.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\Ybañez_Task1\obj\Debug\Ybañez_Task1.exe
+C:\Users\ACT-STUDENT\Downloads\Ybañez_Task1\obj\Debug\Ybañez_Task1.pdb
+C:\Users\ACT-STUDENT\Downloads\Ybañez_Task1\obj\Debug\Ybañez_Task1.exe.config
