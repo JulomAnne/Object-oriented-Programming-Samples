@@ -12,6 +12,7 @@ namespace Ybañez_Polymorphism
         public string Brand { get; set; }
         public double Price { get; set; }
 
+        //Parameterized Constructor
         public Bag(string brand, double price)
         {
             Brand = brand;
@@ -30,6 +31,7 @@ namespace Ybañez_Polymorphism
     {
         public int Compartments { get; set; } //SchoolBag Class Property
 
+        //Parameterized Constructor
         public SchoolBag(string brand, double price, int compartments) : base(brand, price)
         {
             Compartments = compartments;
@@ -49,6 +51,7 @@ namespace Ybañez_Polymorphism
     {
         public int Capacity { get; set; } //TravelBag Class Property
 
+        //Parameterized Constructor
         public TravelBag(string brand, double price, int capacity) : base(brand, price)
         {
             Capacity = capacity;
@@ -63,5 +66,4 @@ namespace Ybañez_Polymorphism
             Console.WriteLine();
         }
     }
-
 }
