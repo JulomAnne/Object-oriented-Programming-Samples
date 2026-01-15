@@ -1,8 +1,0 @@
-C:\Users\ACT-STUDENT\Downloads\Ybañez_SimpleInheritance\bin\Debug\Ybañez_SimpleInheritance.exe.config
-C:\Users\ACT-STUDENT\Downloads\Ybañez_SimpleInheritance\bin\Debug\Ybañez_SimpleInheritance.exe
-C:\Users\ACT-STUDENT\Downloads\Ybañez_SimpleInheritance\bin\Debug\Ybañez_SimpleInheritance.pdb
-C:\Users\ACT-STUDENT\Downloads\Ybañez_SimpleInheritance\obj\Debug\Ybañez_SimpleInheritance.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Downloads\Ybañez_SimpleInheritance\obj\Debug\Ybañez_SimpleInheritance.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Downloads\Ybañez_SimpleInheritance\obj\Debug\Ybañez_SimpleInheritance.exe
-C:\Users\ACT-STUDENT\Downloads\Ybañez_SimpleInheritance\obj\Debug\Ybañez_SimpleInheritance.pdb
-C:\Users\ACT-STUDENT\Downloads\Ybañez_SimpleInheritance\obj\Debug\Ybañez_SimpleInheritance.exe.config
