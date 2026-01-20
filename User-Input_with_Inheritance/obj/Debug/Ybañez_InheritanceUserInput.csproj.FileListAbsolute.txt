@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceUserInput\obj\Debug\Ybañez_InheritanceUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceUserInput\obj\Debug\Ybañez_InheritanceUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceUserInput\bin\Debug\Ybañez_InheritanceUserInput.exe.config
+C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceUserInput\bin\Debug\Ybañez_InheritanceUserInput.exe
+C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceUserInput\bin\Debug\Ybañez_InheritanceUserInput.pdb
+C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceUserInput\obj\Debug\Ybañez_InheritanceUserInput.exe
+C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceUserInput\obj\Debug\Ybañez_InheritanceUserInput.pdb
+C:\Users\ACT-STUDENT\Downloads\Ybañez_InheritanceUserInput\obj\Debug\Ybañez_InheritanceUserInput.exe.config
