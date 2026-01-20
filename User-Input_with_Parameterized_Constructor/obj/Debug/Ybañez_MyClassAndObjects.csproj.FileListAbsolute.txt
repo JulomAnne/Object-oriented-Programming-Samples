@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Documents\Ybañez_MyClassAndObjects\bin\Debug\Ybañez_MyClassAndObjects.exe.config
+C:\Users\ACT-STUDENT\Documents\Ybañez_MyClassAndObjects\bin\Debug\Ybañez_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Documents\Ybañez_MyClassAndObjects\bin\Debug\Ybañez_MyClassAndObjects.pdb
+C:\Users\ACT-STUDENT\Documents\Ybañez_MyClassAndObjects\obj\Debug\Ybañez_MyClassAndObjects.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\Ybañez_MyClassAndObjects\obj\Debug\Ybañez_MyClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\Ybañez_MyClassAndObjects\obj\Debug\Ybañez_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Documents\Ybañez_MyClassAndObjects\obj\Debug\Ybañez_MyClassAndObjects.pdb
+C:\Users\ACT-STUDENT\Documents\Ybañez_MyClassAndObjects\obj\Debug\Ybañez_MyClassAndObjects.exe.config
