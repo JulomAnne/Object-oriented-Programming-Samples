@@ -1,8 +1,0 @@
-C:\Users\ACT-STUDENT\Downloads\Ybañez_COConstructorUserInput\bin\Debug\Ybañez_COConstructorUserInput.exe.config
-C:\Users\ACT-STUDENT\Downloads\Ybañez_COConstructorUserInput\bin\Debug\Ybañez_COConstructorUserInput.exe
-C:\Users\ACT-STUDENT\Downloads\Ybañez_COConstructorUserInput\bin\Debug\Ybañez_COConstructorUserInput.pdb
-C:\Users\ACT-STUDENT\Downloads\Ybañez_COConstructorUserInput\obj\Debug\Ybañez_COConstructorUserInput.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Downloads\Ybañez_COConstructorUserInput\obj\Debug\Ybañez_COConstructorUserInput.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Downloads\Ybañez_COConstructorUserInput\obj\Debug\Ybañez_COConstructorUserInput.exe
-C:\Users\ACT-STUDENT\Downloads\Ybañez_COConstructorUserInput\obj\Debug\Ybañez_COConstructorUserInput.pdb
-C:\Users\ACT-STUDENT\Downloads\Ybañez_COConstructorUserInput\obj\Debug\Ybañez_COConstructorUserInput.exe.config
