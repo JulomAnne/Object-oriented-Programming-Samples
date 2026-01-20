@@ -1,7 +1,0 @@
-C:\Users\Lenovo\Downloads\Ybañez_Abstraction\obj\Debug\Ybañez_Abstraction.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Downloads\Ybañez_Abstraction\obj\Debug\Ybañez_Abstraction.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Downloads\Ybañez_Abstraction\bin\Debug\Ybañez_Abstraction.exe.config
-C:\Users\Lenovo\Downloads\Ybañez_Abstraction\bin\Debug\Ybañez_Abstraction.exe
-C:\Users\Lenovo\Downloads\Ybañez_Abstraction\bin\Debug\Ybañez_Abstraction.pdb
-C:\Users\Lenovo\Downloads\Ybañez_Abstraction\obj\Debug\Ybañez_Abstraction.exe
-C:\Users\Lenovo\Downloads\Ybañez_Abstraction\obj\Debug\Ybañez_Abstraction.pdb
